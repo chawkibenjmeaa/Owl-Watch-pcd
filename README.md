@@ -1,4 +1,4 @@
-# 🦉 Owl Watch PCD – AI-Powered Parental Control System
+# 🦉 Owl Watch – AI-Powered Parental Control System
 
 **Owl Watch PCD** is a cross-platform parental control app using **Flutter**, **Django**, **Kotlin**, and **Firebase** to help parents monitor and manage their children's device usage. It features real-time screenshot capture, app usage tracking, password-protected app locking, and AI-powered content analysis.
 
