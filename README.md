@@ -59,28 +59,7 @@ This app allows parents to:
 
 ---
 
-## 🧱 Architecture Overview
 
-```
-+------------------+     +---------------------------+
-|   Parent Panel   |<--->|   Django Backend API      |
-+------------------+     +------------+--------------+
-                                      |
-                     +-------------------------------+
-                     |       Firebase Services        |
-                     |  - Auth, Firestore, Storage    |
-                     +------------+-------------------+
-                                  |
-             +-------------------v--------------------+
-             |         Flutter App (Child)            |
-             +-------------------+--------------------+
-                                 |
-                +-------------------------------+
-                |   Kotlin Foreground Service    |
-                |  - Screenshot Capturing        |
-                |  - App Usage Monitoring        |
-                +-------------------------------+
-```
 
 ---
 
